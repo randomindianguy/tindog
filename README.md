@@ -1,6 +1,6 @@
 TinDog
 
-I'd learnt to use mix HTML, CSS in this project.
+I'd learnt to use HTML and CSS in this project.
 But in this particular project, I shifted my focus to using Bootstrap 5.0 effectively.
 
 The pain points in this project are as follows:
